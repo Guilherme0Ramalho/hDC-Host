@@ -67,12 +67,12 @@ color: #ccc;
 /*main banner*/
 
 .main-banner{
-    background-image: url(C:\Users\ramal\OneDrive\Documentos\Estudos\udemy\responsividade\img\hdchostlogo.png);
-    padding: 10rem 0;
+    background-image: url('../assets/mainbanner.png');
+    padding: 10em 0;
     background-size: cover;
     background-position: center;
+    height: 300px;
 }
-
 
 .main-banner h1, 
 .main-banner p{
