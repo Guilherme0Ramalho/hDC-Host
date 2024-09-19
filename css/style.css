@@ -68,7 +68,7 @@ color: #ccc;
 
 
 .main-banner{
-    background-image: url('/assets/mainbanner.png');
+    background-image: url('https://github.com/Guilherme0Ramalho/hDC-Host/blob/main/assets/mainbanner.png?raw=true');
     padding: 10em 0;
     background-size: cover;
     background-position: center;
